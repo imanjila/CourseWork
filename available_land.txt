@@ -1,0 +1,8 @@
+101, Pokhara, South, 9, 150000, Available
+102, Kathmandu, North, 8, 98000, Not Available
+103, Chitwan, East, 7, 85000, Available
+104, Bhaktapur, North, 5, 75000, Not Available
+105, Mustang, West, 4, 60000, Available
+106, Lalitpur, South, 7, 55000, Available
+107, Tanahun, East, 5, 650000, Not Available
+108, Kritipur, West, 6, 70000, Not Available
